@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Proje",
+    "name": "Market Sepet Uygulamasi",
     "slug": "Proje",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/pngtree-grocery-basket-on-hand-png-image_14188709.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
